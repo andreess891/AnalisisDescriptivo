@@ -5,3 +5,6 @@ dist/*
 logs/*
 main.spec
 .vscode/*
+Taller1/cluster_puras2.csv
+Taller1/cluster_puras5.csv
+Taller1/componentes.csv
